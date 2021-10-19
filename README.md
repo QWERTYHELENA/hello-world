@@ -1,2 +1,6 @@
-# hello-world
-super-duper-octo-succotash
+#include<stdio.h>
+#include<conio.h>
+main() {
+printf("Zdrastvuite! Menya zovut, Risha");
+getch();
+}
